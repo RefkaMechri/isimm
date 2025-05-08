@@ -27,10 +27,10 @@ Offrir une plateforme de communication entre les étudiants, les enseignants et 
 Frontend : HTML, CSS, JavaScript 
 
 Backend :  Python (Flask)
-!(home.png)
 
 Base de données : MongoDB 
 
 Gestion des utilisateurs : Authentification et gestion des comptes étudiants et administratifs
 
 Plateforme d'événements : Intégration avec des services comme Google Calendar ou Eventbrite
+![site Isimm](home.png)
